@@ -6,7 +6,7 @@ body{
 table{
   margin-left: auto;
   margin-right: auto;
-  font-size: 20px;
+  font-size: 1.5625rem;
 
 }
 
@@ -14,19 +14,23 @@ h1{
   margin-top: 0;
   margin-bottom: 0;
   font-family: 'Festive', cursive;
-  font-size: 90px;
+  font-size: 5.625rem;
   color: #C36A2D;
 }
 
 h2{
-  font-size: 40px;
+  font-size: 2.5rem;
   color: #C36A2D;
   padding-bottom: 10px;
 }
 
 h3{
-  font-size: 25px;
+  font-size: 1.5625rem;
   color:#E2C275;
+}
+
+p{
+  font-size: 1.25rem;
 }
 
 a{
